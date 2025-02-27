@@ -101,8 +101,8 @@ Accurate classification enables superior **competitive analysis, strategic inves
 ---
 
 ## **6. Conclusion**
-✅ Successfully built a high-performing, **hackathon-ready** machine learning pipeline.  
-✅ **XGBoost outperformed other models**, offering the best trade-off between precision and recall.  
+Successfully built a high-performing, **hackathon-ready** machine learning pipeline.  
+**XGBoost outperformed other models**, offering the best trade-off between precision and recall.  
 **Future improvements** should focus on **expanding feature sets, optimizing hyperparameters, and enhancing model explainability.**
 
 ---
